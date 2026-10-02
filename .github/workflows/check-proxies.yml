@@ -1,0 +1,45 @@
+name: Check proxies
+
+on:
+  schedule:
+    - cron: "0 */4 * * *" 
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Xray-core
+        run: |
+          bash -c "$(curl -fsSL https://github.com/XTLS/Xray-install/raw/main/install-release.sh)"
+          xray version
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Run checker
+        env:
+          SUBSCRIPTIONS: ${{ secrets.SUBSCRIPTIONS }}
+          TEST_URLS: ${{ secrets.TEST_URLS }}
+        run: python checker.py
+
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add proxies/working.txt proxies/top10.txt proxies/report.txt proxies/history.json
+          git diff --staged --quiet || git commit -m "chore: update working proxies [skip ci]"
+          git push
