@@ -1,0 +1,2302 @@
+{
+"dfad3362-8534-4495-bf49-89f2ae229e7a|37.9.4.112|443|tcp|reality|eh.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.134
+},
+"2690c11f-7258-43fe-aeb9-d90f93a3c317|81.94.148.120|7449|raw|reality|passport.yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.939
+},
+"2690c11f-7258-43fe-aeb9-d90f93a3c317|81.94.148.120|7449|tcp|reality|passport.yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.038
+},
+"d13baced-948a-40d7-be31-7b44fa768552|188.68.218.37|8443|xhttp|reality|rumulti.federal-usa.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.242
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|217.19.122.200|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.494
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|81.94.148.214|443|ws|tls|fbsv6.guardora.pro|/ws|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 3.049
+},
+"2c634977-584e-4e1f-b501-1b70c77a6743|185.141.227.180|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|81.94.148.214|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.536
+},
+"2c634977-584e-4e1f-b501-1b70c77a6743|185.141.227.180|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|dismissaltree.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|46.243.232.125|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.15
+},
+"4deb9957-e037-4ae2-8892-da357cc6f99f|176.109.85.70|443|ws|tls|ware.tunnelgate.org|/ws/v1/ru|ware.tunnelgate.org": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4deb9957-e037-4ae2-8892-da357cc6f99f|ware.tunnelgate.org|443|ws|tls|ware.tunnelgate.org|/ws/v1/ru|ware.tunnelgate.org": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ae5288e4-1e8e-4ca7-8ae7-66ba7eee366e|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|46.243.232.125|443|ws|tls|fbsv6.guardora.pro|/ws|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.218
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|188.225.79.44|443|raw|reality|eh.vk.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.019
+},
+"5bba3558-ad1c-4d97-a360-7d993d503abd|185.91.52.13|30007|raw|reality|storage.yandexcloud.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.526
+},
+"91d05329-54c3-45c4-95ad-bcf9f430a865|78.159.245.32|1449|xhttp|reality|bobr.team|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|78.159.246.110|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|78.159.246.110|443|ws|tls|fbsv6.guardora.pro|/ws|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f99fcd23-6ce5-4c91-a402-c5ca99e90dae|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c2bbf90c-7f13-47dd-b68d-f0bd38b6b3c8|78.159.246.179|2053|xhttp|tls|randomquaint.net|/api/v1/upload|randomquaint.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"65cd649c-f2f5-49c4-8f57-94d9b706e846|45.9.24.199|7443|xhttp|reality|shprcdn.homes|/content/dash/segments/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e7f8aade-822d-4811-96eb-88dc0ab4a989|155.212.142.94|8457|tcp|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|185.91.52.191|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"xxxxxxxxxx1|localhost|444|tcp|reality|xx.xx|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"a4fe95ab-189c-4e0a-951b-565d21a1508b|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f8f13e33-166c-4cac-944a-32d1dda4533c|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|185.91.52.191|443|tcp|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.17|8443|raw|reality|yandex.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.011
+},
+"8405ce10-ac91-499f-98d3-a26521a28384|185.86.144.101|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9bd6dc4f-ef47-4825-8c75-ca6a431ca39e|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"49c8e76e-7e52-426a-8669-51d93c7a6d12|31.177.111.4|443|raw|reality|community-bd.paruscamp.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"65cd649c-f2f5-49c4-8f57-94d9b706e846|shprcdn.homes|7443|xhttp|reality|shprcdn.homes|/content/dash/segments/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7454912a-efc7-4f03-a7e5-06fbec5d5792|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.175|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27f262d0-62a0-4af3-8c74-26db2d442ec6|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ff65fb9b-552f-426f-8321-4c85024377e6|194.55.239.148|443|tcp|reality|my.selectel.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|46.243.234.157|7445|raw|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9f8ad0a8-6f20-496b-9649-96df260f1a9c|81.94.148.90|19443|raw|reality|rutube.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|188.225.25.22|443|tcp|reality||/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"195c005f-ec14-5d06-885c-02fb42575608|185.147.26.218|443|grpc|reality|id.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"933eb45b-0e97-4ed1-bfb9-e34bd0b4342c|185.33.24.85|443|raw|reality|a.wb.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"35ee4bb3-0fa5-443a-a911-361f81cee276|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.17|8443|tcp|reality|yandex.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.686
+},
+"342ab7e4-5a89-0001-8809-304120d4aa83|95.85.224.51|443|tcp|reality|max.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.614
+},
+"11aabba0-5fd1-4f15-8068-74c1a466cefc|193.163.203.170|443|tcp|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 3.452
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|91.240.87.166|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0f4081e7-612b-425f-8def-eebf144aedba|31.129.42.9|8444|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"501a2da5-cb22-4a3f-915e-e3b821d1d62d|87.199.205.28|443|tcp|reality|vkvd754.okcdn.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.596
+},
+"0f4081e7-612b-425f-8def-eebf144aedba|185.91.53.86|8444|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"633f424e-2b11-48da-a6b3-a849dd71456f|45.12.75.242|26424|tcp|reality|ya.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.508
+},
+"1c332eae-7e02-4acd-996d-4eb3e652401c|144.31.50.236|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4c00b7c0-de29-49c8-aadb-71800a628823|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b4370239-e25b-4396-8d67-2c6f2f6c8655|84.201.180.177|7443|tcp|reality|api.dobro.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.982
+},
+"8405ce10-ac91-499f-98d3-a26521a28384|185.178.208.140|443|ws|tls|fitnesshall.org|/|fitnesshall.org": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"a6530443-f598-4c71-a3df-d19c2c38f1d9|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"501a2da5-cb22-4a3f-915e-e3b821d1d62d|87.199.205.28|443|raw|reality|vkvd754.okcdn.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.591
+},
+"3710fc0f-5f0c-4b9c-a5d4-40cb419e943a|av513u.sysopnova.art|443|tcp|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.093
+},
+"1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|tcp|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.255
+},
+"4ec4af01-e2a4-4d25-a2bb-10a03f154e93|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bb26e00a-f640-408b-bc9a-279879085c29|185.134.203.61|8445|tcp|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1cddb1ef-bcf5-45b0-a66a-7998e1efabca|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e7f8aade-822d-4811-96eb-88dc0ab4a989|155.212.142.94|8454|tcp|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4c00b7c0-de29-49c8-aadb-71800a628823|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"a438c635-bc9b-4755-9e2e-66410f354948|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9bd6dc4f-ef47-4825-8c75-ca6a431ca39e|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"441afe11-a180-4516-bb80-80a8a6b38705|193.163.203.253|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0f4081e7-612b-425f-8def-eebf144aedba|185.91.53.165|8444|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|217.19.122.200|443|ws|tls|fbsv6.guardora.pro|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|31.177.111.114|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"3710fc0f-5f0c-4b9c-a5d4-40cb419e943a|144.31.93.231|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e35296cf-ba7d-4fac-a67e-313d98a4f648|185.229.9.176|49111|grpc|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|109.120.181.153|443|tcp|reality|eh.vk.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b872771d-e9d1-42d7-ad29-a9acff49ea2d|88.218.170.236|443|tcp|reality|www.sun6-21.userapi.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f451444d-abd4-4a73-96e3-73ae5a1edaa6|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|185.229.9.178|41001|raw|reality|ligastavok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0f4081e7-612b-425f-8def-eebf144aedba|185.91.54.30|8444|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e7f8aade-822d-4811-96eb-88dc0ab4a989|155.212.142.94|8458|tcp|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7a67a788-2b73-48b0-ba4f-71348b9e2d43|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b4370239-e25b-4396-8d67-2c6f2f6c8655|84.201.180.177|7443|raw|reality|api.dobro.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"08f800d9-0aa1-4eb6-b209-2ccdfb9bb224|46.243.234.157|7443|raw|reality|s1.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9bd6dc4f-ef47-4825-8c75-ca6a431ca39e|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|185.229.9.178|41001|tcp|reality|ligastavok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"43c610ca-c525-4dd1-bc82-efea7b94c54d|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8f4bbd93-22b7-4ce4-8b6e-621db814757f|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|31.177.111.114|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"259892ed-b062-4479-b558-0db128231dad|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"933eb45b-0e97-4ed1-bfb9-e34bd0b4342c|185.33.24.85|443|tcp|reality|a.wb.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"49c8e76e-7e52-426a-8669-51d93c7a6d12|31.177.111.4|443|tcp|reality|community-bd.paruscamp.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9bd6dc4f-ef47-4825-8c75-ca6a431ca39e|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.175|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"08f800d9-0aa1-4eb6-b209-2ccdfb9bb224|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|109.120.181.153|443|raw|reality|eh.vk.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.326
+},
+"bb26e00a-f640-408b-bc9a-279879085c29|46.243.234.157|8445|raw|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"72525d1a-a457-4fbc-82d9-04e240d2a859|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e7f8aade-822d-4811-96eb-88dc0ab4a989|155.212.142.94|8453|tcp|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"85cad8c9-0e30-4b9c-95b1-7d0b9a5cc869|nl4.gaz-service.shop|443|tcp|reality|mail.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"633f424e-2b11-48da-a6b3-a849dd71456f|45.12.75.242|26424|raw|reality|ya.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.314
+},
+"43c610ca-c525-4dd1-bc82-efea7b94c54d|46.243.234.157|7443|raw|reality|s1.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|46.243.232.125|443|ws|tls|fbsv6.guardora.pro|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8b417899-6783-4cb0-bbf6-f082cbfc4f2c|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"342ab7e4-5a89-0001-8809-304120d4aa83|95.85.224.51|443|raw|reality|max.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.728
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|46.243.234.157|7445|raw|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"492b7a6c-4d80-401d-bedb-cb47dee1e367|217.19.122.72|20002|raw|reality|cdna.spacev67.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bb26e00a-f640-408b-bc9a-279879085c29|46.243.234.157|8445|tcp|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.80|8443|raw|reality|yandex.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.631
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"743f1ac8-331e-41dd-948f-fb25b8d330fd|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|raw|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.834
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"aed01749-2f9f-4764-a732-12d7f38a4dcd|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|31.177.111.114|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e6d46341-5d45-492d-bc3c-dda43a6cfa38|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4deb9957-e037-4ae2-8892-da357cc6f99f|176.109.85.70|443|ws|tls|ware.tunnelgate.org|/|ware.tunnelgate.org": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bb26e00a-f640-408b-bc9a-279879085c29|185.134.203.61|8445|raw|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|31.177.111.114|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|78.159.246.110|443|ws|tls|fbsv6.guardora.pro|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"873f969e-c242-480a-b939-2466cbdb65a0|194.59.40.57|444|tcp|reality|perekrestok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e016bfa9-3dd9-43df-b3ee-5a5d3eff25b5|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"43c610ca-c525-4dd1-bc82-efea7b94c54d|45.9.24.205|443|ws|tls|promsnab.cc|/|promsnab.cc": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"11aabba0-5fd1-4f15-8068-74c1a466cefc|193.163.203.170|443|raw|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.387
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|raw|reality|eh.vk.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7f86f371-5a85-48be-babc-7af1ae7ffb75|198.55.102.59|4443|tcp|reality|vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f463c3c5-8c22-49f5-bb99-c7a1c37da831|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"3c23a041-b686-4d93-af6b-2d793f5c45dc|31.130.155.114|443|tcp|reality|api.max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"de3a7caf-5f83-4bec-a431-c423383564ed|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"43c610ca-c525-4dd1-bc82-efea7b94c54d|94.139.255.239|443|ws|tls|krepmet.site|/|krepmet.site": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|31.177.111.114|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27f262d0-62a0-4af3-8c74-26db2d442ec6|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|217.19.122.200|443|ws|tls|fbsv6.guardora.pro|/|fbsv6.guardora.pro": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ad1f8485-84c5-4960-8b55-cacd0ebf5ced|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"114ff808-6275-4458-9cc0-7b5f0260e57c|46.243.142.192|8444|grpc|reality|ppfu3n-01.p.portshaper.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|91.240.87.166|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"be25970d-cfe3-4918-9862-6dbc5f9bacd5|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"441afe11-a180-4516-bb80-80a8a6b38705|193.163.203.253|443|tcp|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"de3a7caf-5f83-4bec-a431-c423383564ed|95.129.236.216|443|ws|tls|data-hz32.crm.hourtley.com|/|data-hz32.crm.hourtley.com": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9f8ad0a8-6f20-496b-9649-96df260f1a9c|9w2al.guardora.pro|19443|tcp|reality|rutube.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"72525d1a-a457-4fbc-82d9-04e240d2a859|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8405ce10-ac91-499f-98d3-a26521a28384|212.233.121.169|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e7f8aade-822d-4811-96eb-88dc0ab4a989|155.212.142.94|8452|tcp|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0f4081e7-612b-425f-8def-eebf144aedba|185.91.52.96|8444|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e64fe5f3-387d-4f99-8737-d12099d6c8c4|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|tcp|reality|yandex.ru|/|yandex.ru": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.213
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"bc5ec86c-3e65-4272-994c-59a924c72a68|81.94.148.214|443|ws|tls|fbsv6.guardora.pro|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"372e3204-235f-46e9-99fb-5b693e504067|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|91.240.87.166|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e016bfa9-3dd9-43df-b3ee-5a5d3eff25b5|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e9e3345c-d269-42a6-bbfb-bd26e484c677|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.175|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"de3a7caf-5f83-4bec-a431-c423383564ed|46.243.234.157|7443|raw|reality|s1.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.105.186|9892|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7454912a-efc7-4f03-a7e5-06fbec5d5792|46.243.234.157|7443|raw|reality|s1.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.241.126|9892|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"68f2a4fd-6532-4d64-a099-eccac73d591d|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"492b7a6c-4d80-401d-bedb-cb47dee1e367|217.19.122.72|20002|tcp|reality|cdna.spacev67.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|46.254.16.197|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|5.178.85.155|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.123.165.25|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d13baced-948a-40d7-be31-7b44fa768552|rumultt.federal-usa.com|8443|xhttp|reality|rumulti.federal-usa.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.033
+},
+"441afe11-a180-4516-bb80-80a8a6b38705|bl3fk52.sysopnova.art|443|tcp|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|5.178.85.221|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e9e3345c-d269-42a6-bbfb-bd26e484c677|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"441afe11-a180-4516-bb80-80a8a6b38705|bl3fk52.sysopnova.art|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|194.55.239.155|443|grpc|tls|kings.applepie-recipe.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|194.55.239.149|443|grpc|tls|kings.applepie-recipe.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|46.254.16.108|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|194.55.239.158|443|grpc|tls|kings.applepie-recipe.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|194.55.239.157|443|grpc|tls|kings.applepie-recipe.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|5.178.85.221|443|grpc|tls|kings.applepie-recipe.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|84.201.161.48|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|84.201.137.212|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|46.254.17.76|443|tcp|reality|id.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|91.210.169.181|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.834
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls|wstg.datasynctrue.online|/api/connect|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.845
+},
+"4054fdc2-ee80-4419-8a8e-d937df4719e2|78.159.250.214|443|tcp|reality|qq.utiltools.site|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.838
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|188.225.33.141|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.919
+},
+"27fca5d5-e918-437b-9955-cb96bd544e34|5.188.114.88|443|tcp|reality|5post-gate.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.109.105|9830|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.176.161|9891|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.246.58|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2c634977-584e-4e1f-b501-1b70c77a6743|dismissaltree.net|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|dismissaltree.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b4090350-b91f-4920-b5c0-c3ffd2798534|176.114.86.163|8081|grpc|none||/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.936
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.111.7|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"49fcd608-ccfe-4e7c-bd9b-9fcfc496dcef|194.87.239.12|443|grpc|reality|smartcaptcha.yandexcloud.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b4090350-b91f-4920-b5c0-c3ffd2798534|176.114.86.163|2053|grpc|none||/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.809
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.176.161|9882|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.176.157|9872|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b4090350-b91f-4920-b5c0-c3ffd2798534|176.114.86.222|8081|grpc|none||/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.753
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|37.139.42.225|7448|tcp|reality||/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1bb2af63-4472-44ed-9c70-8f316258b68b|185.229.9.176|42017|tcp|reality|ligastavok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"a1e54ee8-d089-439d-86fc-f2384795cdc7|178.170.197.118|443|ws|tls|stroyservis.cc|/cart/sync/Y_Ddvmazjiqm|stroyservis.cc": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.047
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.104.103|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f4d71fd6-1c25-4748-836b-1dbda9268039|85.117.235.50|443|raw|reality|cz1.animeteka.info|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.869
+},
+"a1e54ee8-d089-439d-86fc-f2384795cdc7|94.139.255.239|443|ws|tls|krepmet.site|/api/v2/session/sVwGfUSAEGlm|krepmet.site": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.123
+},
+"a1e54ee8-d089-439d-86fc-f2384795cdc7|45.9.24.205|443|ws|tls|promsnab.cc|/catalog/feed/yip1n72FJYVW|promsnab.cc": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.341
+},
+"8f6e49e6-7f03-4f10-9da9-1716158d80ed|rf7.o4ka-internet.com|443|tcp|reality|rf7.o4ka-internet.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"953358cb-82ba-4296-960d-6d2ec3468f4c|37.18.14.168|10654|xhttp|reality|bl3fk52.sysopnova.art|/xhttp_client_upload|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.177.80|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.177.83|9891|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8c7f4697-32de-4ed7-a2ec-33fc757a1abd|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9737cc16-7266-45ce-94d9-6e05a45e0b9c|84.38.181.249|443|xhttp|reality|open.spotify.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.8
+},
+"407294c6-c298-49bb-8ff4-82be35c17da5|87.228.101.179|443|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|188.225.62.104|443|raw|reality|eh.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|188.225.62.104|443|raw|reality|yastatic.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|188.225.62.104|443|raw|reality|passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.237
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|188.225.62.104|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.132
+},
+"953358cb-82ba-4296-960d-6d2ec3468f4c|37.18.14.115|10654|xhttp|reality|dailycanvas.sysopnova.art|/xhttp_client_upload|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|91.240.87.166|443|raw|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.482
+},
+"39fda8cb-5602-4804-976c-eb9fedbde3ef|95.129.236.239|443|ws|tls|content-iv1k.login.opendns.stream|/stream/615428/socket|content-iv1k.login.opendns.stream": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.907
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|31.177.111.114|443|raw|reality|www.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.926
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.175|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.175|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/gateway/v1/ws/74c4d5e82a8e50ccf09fc628c17dc9be|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.305
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b27d5617-127f-497e-91d0-b20764344ad2|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|87.242.95.119|9443|xhttp|reality|wrab.online|/|wrab.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|194.55.239.114|443|grpc|reality|web.max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.063
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.175|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|194.55.239.177|443|grpc|reality|sso.passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|31.177.111.114|443|raw|reality|yandex.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.29
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|194.55.239.113|443|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.22.235.63|443|grpc|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7708fcc2-d41a-481e-b0e6-0847b0829485|185.229.9.175|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|194.55.239.114|443|grpc|reality|api-maps.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|188.225.46.98|443|ws|tls|twwswp.smartnet.net.ru|/api/v2/vms/stream/sined|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.22.235.63|443|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|194.55.239.114|443|grpc|reality|smartcaptcha.yandexcloud.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.22.235.63|443|grpc|reality|smartcaptcha.yandexcloud.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.22.235.63|443|grpc|reality|web.max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"a1e54ee8-d089-439d-86fc-f2384795cdc7|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|91.215.42.63|443|xhttp|tls|me.nehtar.ru|/api/users/loadChunk/|me.nehtar.ru": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.40.153.217|443|grpc|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|31.131.251.32|443|ws|tls|swswp.smartnet.net.ru|/api/v1/realtime/data/socket|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"34d68527-94b7-4bc4-93ca-e11d7fa65831|185.22.235.181|443|grpc|reality|sso.passport.yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|185.229.9.176|46018|grpc|reality|ligastavok.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.903
+},
+"5aff4d53-4d3d-492e-8ebc-74913e8b448c|95.129.236.171|443|xhttp|tls|my.console.pc-club.app|/api/users/loadChunk/|my.console.pc-club.app": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.249.189|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.246.110|9830|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.246.73|9873|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"39fda8cb-5602-4804-976c-eb9fedbde3ef|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.025
+},
+"4054fdc2-ee80-4419-8a8e-d937df4719e2|qq.utiltools.site|443|tcp|reality|qq.utiltools.site|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.903
+},
+"3d9daa27-6283-406d-a2d4-c6f22c635a14|pl.astrafic.ru|443|grpc|tls|pl.astrafic.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.177.72|9844|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7f02e3c5-e386-4cfe-bd24-c49d196638b6|109.69.20.101|2087|tcp|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"3d9daa27-6283-406d-a2d4-c6f22c635a14|fi.astrafic.ru|443|grpc|tls|fi.astrafic.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"9f8ad0a8-6f20-496b-9649-96df260f1a9c|ger1.pandaonline.org|443|tcp|reality|ger1.pandaonline.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"3c23a041-b686-4d93-af6b-2d793f5c45dc|31.130.155.114|443|raw|reality|api.max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f4d71fd6-1c25-4748-836b-1dbda9268039|2.26.104.40|443|tcp|reality|s5.mangateka.top|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.996
+},
+"91d734be-a3d0-4d50-83ab-74cf7b6966fa|144.31.215.227|443|tcp|reality|cdn-de.bulkavpn.top|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.059
+},
+"91d734be-a3d0-4d50-83ab-74cf7b6966fa|cdn-de.bulkavpn.top|443|tcp|reality|cdn-de.bulkavpn.top|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.384
+},
+"info1|xn--80.com|443|grpc|reality|lolz.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b5d9ae01-a4fd-49ed-a37e-932203019405|185.106.98.124|59443|tcp|reality|dash.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.472
+},
+"7c67c947-1028-45bb-8b30-99685f398674|80.93.202.14|443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.573
+},
+"7c67c947-1028-45bb-8b30-99685f398674|199.181.197.210|443|ws|tls|germanyis.ochmaybrooooo.online|/|germanyis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.678
+},
+"7c67c947-1028-45bb-8b30-99685f398674|188.72.103.4|443|xhttp|tls|yccdn.cloud.yandex.net|/|nederpodpis3.7776.live": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|77.37.33.110|443|ws|tls|polshax.ochmaybrooooo.online|/|polshax.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.672
+},
+"7c67c947-1028-45bb-8b30-99685f398674|188.72.103.4|443|xhttp|tls|yccdn.cloud.yandex.net|/|nederpodpis4.7776.live": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|74.80.226.5|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.573
+},
+"7c67c947-1028-45bb-8b30-99685f398674|86.38.214.53|443|grpc|tls|ru1.baklajann.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|188.72.103.4|443|xhttp|tls|yccdn.cloud.yandex.net|/|nederpodpis5.7776.live": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"91d734be-a3d0-4d50-83ab-74cf7b6966fa|185.166.154.111|443|tcp|reality|cdn.bulkavpn.top|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2897717e-55b6-4d3d-8752-72c5fd4614ae|13.143.185.29|8448|xhttp|reality|api-maps.yandex.ru|/assets/v2|13.143.185.29": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|217.26.28.224|8443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|45.91.52.102|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|5.101.50.226|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|89.108.98.150|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.842
+},
+"7c67c947-1028-45bb-8b30-99685f398674|81.200.158.206|8443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.192
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.16.35|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.912
+},
+"7c67c947-1028-45bb-8b30-99685f398674|45.91.52.120|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.925
+},
+"7c67c947-1028-45bb-8b30-99685f398674|185.65.151.81|443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.607
+},
+"7c67c947-1028-45bb-8b30-99685f398674|147.45.50.166|443|ws|tls|germanyis.ochmaybrooooo.online|/|germanyis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.756
+},
+"7c67c947-1028-45bb-8b30-99685f398674|92.53.64.40|8443|ws|tls|germanyis.ochmaybrooooo.online|/|germanyis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.855
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.23.166|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.110.120|8443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.321
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.97.105|443|ws|tls|gr2.lebaptm.online|/|gr2.lebaptm.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.423
+},
+"7c67c947-1028-45bb-8b30-99685f398674|80.249.131.218|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|217.16.31.53|443|ws|tls|germanyis.ochmaybrooooo.online|/|germanyis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.892
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.3.92|443|ws|tls|polshax.ochmaybrooooo.online|/|polshax.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.206
+},
+"7c67c947-1028-45bb-8b30-99685f398674|5.189.239.36|8443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.926
+},
+"7c67c947-1028-45bb-8b30-99685f398674|89.223.67.25|8443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.143.169|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.19.230|8443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|185.20.224.44|8443|ws|tls|polshax.ochmaybrooooo.online|/|polshax.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"97561873-a59e-4a91-bb7e-56e869ca3328|api.mediapriboy.cc|443|tcp|reality|api.mediapriboy.cc|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ae437e76-4744-45b9-971c-d95d828d3b4e|files.freenetrent.space|443|xhttp|tls|files.freenetrent.space|/api/v2/sync|files.freenetrent.space": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|158.160.16.35|8443|ws|tls|polshax.ochmaybrooooo.online|/|polshax.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.163
+},
+"c86c572a-7253-401e-90ba-f3d07fc7e8c2|austria.avara.fit|443|grpc|reality|austria.avara.fit|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|84.201.134.201|443|ws|tls|germanyis.ochmaybrooooo.online|/|germanyis.ochmaybrooooo.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.041
+},
+"2f35965a-9a9b-45fd-ba32-987296dfb6be|150.40.126.24|443|grpc|reality|rs5.univesalsrv.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2f35965a-9a9b-45fd-ba32-987296dfb6be|150.40.126.19|443|grpc|reality|rs2.univesalsrv.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2f35965a-9a9b-45fd-ba32-987296dfb6be|rs3.univesalsrv.com|443|grpc|reality|rs3.univesalsrv.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c67c947-1028-45bb-8b30-99685f398674|51.250.91.218|8443|ws|tls|polshax.ochmaybrooooo.online|/|polshax.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2f35965a-9a9b-45fd-ba32-987296dfb6be|150.40.126.22|443|grpc|reality|rs4.univesalsrv.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"00144519-7e0d-476b-8d28-435576af9262|167.17.69.171|443|raw|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.187
+},
+"8f704ed6-9a1a-4d04-94dd-1bff501716de|85.90.197.220|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.67
+},
+"d1a6a033-fdbd-46a6-a177-3370ba042b9f|46.28.67.55|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.784
+},
+"7f02e3c5-e386-4cfe-bd24-c49d196638b6|109.69.20.101|2088|tcp|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2f35965a-9a9b-45fd-ba32-987296dfb6be|89.35.14.32|443|grpc|reality|md3.univesalsrv.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ca52e2b6-fb9f-4dac-b6dc-49da9923f251|209.200.246.148|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.307
+},
+"12c53e32-e589-47d6-b857-e4132294f767|46.28.71.247|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.664
+},
+"c86c572a-7253-401e-90ba-f3d07fc7e8c2|netherlands.avara.fit|443|grpc|reality|netherlands.avara.fit|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"975fc322-6e38-434b-a53c-d39fed49b9a9|47.251.108.158|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.183
+},
+"7c67c947-1028-45bb-8b30-99685f398674|195.133.197.7|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"3950b45e-740d-4dca-ac95-505ec8534592|45.90.59.15|443|tcp|reality|www.cloudflare.com|/|www.cloudflare.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.623
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.111.152|9894|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|201.34.159.221|443|grpc|tls|us.avroraservice.online|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e0b9fb0f-1bbd-478b-9580-c2294778338b|201.34.159.213|443|grpc|tls|us1.g4m1.biz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"05488656-d4bf-4634-8b2e-e4ff5a56c7e2|82.118.22.161|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.556
+},
+"f9613819-d2fe-4b3a-a2e6-40c184c6854c|194.87.143.165|8443|ws|tls|wsru1.wba-pn.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d7d724b5-17ce-4f3c-877d-dfbf0f07afa1|150.251.113.34|443|tcp|reality|www.cloudflare.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.726
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.243.18|9872|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.111.152|9872|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.245.167|9881|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d01e89b1-e260-4d30-a363-4a46ff3f9627|79.174.92.122|443|grpc|reality|m.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 3.127
+},
+"9d672694-c146-422e-b3b5-3717a38a0fcc|fr.api-music-fa.com|2053|ws|tls|fr.api-music-fa.com|/api/voip/updates/static/fr2035|fr.api-music-fa.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.301
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|161.35.192.122|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.678
+},
+"ca608afb-55ff-4f36-9d00-606fedbb30e1|site.check-looks.space|2083|ws|tls|site.check-looks.space|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5|201.34.136.200|443|grpc|tls|renderer-bridge-1-832.mirra.now|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|46.28.71.154|443|tcp|reality|spanish67.kovsh.lol|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.17
+},
+"8f6e49e6-7f03-4f10-9da9-1716158d80ed|islam.konus.buzz|443|tcp|reality|islam.konus.buzz|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.566
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|104.171.132.197|443|grpc|tls|es.avroraservice.online|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2b886607-3d3a-0006-ad62-e3e8a1ba20ca|lk-1.yes-on.ru|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2b886607-3d3a-0007-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2b886607-3d3a-0006-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|2.58.66.198|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.726
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|144.31.219.97|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.525
+},
+"eeec4cba-d104-4f31-b6d6-fca086e14250|87.120.252.191|443|tcp|reality|worldoftanks.eu|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.223
+},
+"e19f406e-0f0f-4abd-9861-a3d2d213b650|subnimnet1.ir|80|xhttp|none|fl.subnimnet2.ir|/ws|fl.subnimnet2.ir": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"d207c6c8-a278-487c-b06e-f1fc89304e6d|subnimnet1.ir|80|xhttp|none|fl.subnimnet2.ir|/ws/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET|fl.subnimnet2.ir": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"720043a3-d5fb-4a94-883c-13e4b628253c|108.156.39.79|443|ws|tls|lon-rem-2.vip107.cfd|/|lon-rem-2.vip107.cfd": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.596
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn3.alihapp.com|443|xhttp|tls|cdn3.alihapp.com|/|cdn3.alihapp.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.104
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn8.alihapp.com|443|xhttp|tls|cdn8.alihapp.com|/|cdn8.alihapp.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.91
+},
+"2b886607-3d3a-0002-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"24e3a924-fc4b-4e3f-98a8-85d506d530f9|151.241.166.137|443|tcp|reality|151.241.166.137.sslip.io|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.597
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|86.54.82.184|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.537
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|cz.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.77
+},
+"2b886607-3d3a-0003-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn2.alihapp.com|443|xhttp|tls|cdn2.alihapp.com|/|cdn2.alihapp.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.506
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|de.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.914
+},
+"24e3a924-fc4b-4e3f-98a8-85d506d530f9|94.183.253.211|443|tcp|reality|germ2.serverslocal.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.919
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|5.45.107.150|8443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.873
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|62.192.153.132|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.508
+},
+"1c5ed2e1-56da-41ab-9a78-159d9892ec17|185.147.26.210|443|tcp|reality|example.com|/|/?telegram--marambashi--marambashi": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.843
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|109.172.8.48|8443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.714
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|it.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.721
+},
+"d207c6c8-a278-487c-b06e-f1fc89304e6d|172.67.223.131|80|xhttp|none|fl.subnimnet2.ir|/ws/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET|fl.subnimnet2.ir": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn10.alihapp.com|443|xhttp|tls|cdn10.alihapp.com|/|cdn10.alihapp.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.615
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|2.58.66.143|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 6.158
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|31.76.119.123|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.512
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|31.76.119.17|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.517
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn9.alihapp.com|443|xhttp|tls|cdn9.alihapp.com|/|cdn9.alihapp.com": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"cd3bb7d9-7df3-4644-ac05-c260990ac277|66.90.105.211|2083|grpc|none||/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"6a3c68b1-d4b8-0006-975f-a01da4184225|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"92d67828-4c56-4795-af5a-f387651380dc|trackydev.site|443|ws|tls|trackydev.site|/|trackydev.site": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|ca.monkora.org|443|tcp|reality|ca.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.269
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|se.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.612
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|2.26.148.145|443|tcp|reality|polo.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.614
+},
+"c4394e27-baeb-422d-8905-a93f8e01126f|cdn.alihapp.com|443|xhttp|tls|cdn.alihapp.com|/|cdn.alihapp.com": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.762
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|litva1.ali-bard.online|443|tcp|reality|litva1.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.65
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|85.159.228.223|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.713
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|nl.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.727
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|hk.monkora.org|443|tcp|reality|hk.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.022
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|93.115.24.216|443|tcp|reality|litva1.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.621
+},
+"24e3a924-fc4b-4e3f-98a8-85d506d530f9|13.143.184.226|443|tcp|reality|msc1.serverslocal.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.327
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|103.31.4.189|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.141
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|fi.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.624
+},
+"6a3c68b1-d4b8-0004-975f-a01da4184225|lk-1.yes-on.ru|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|109.172.8.73|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.752
+},
+"4275431a-f97c-4d84-929a-9ef411d3d10b|r1256197.s2537.vm.mydomain.zone|443|xhttp|reality|r1256197.s2537.vm.mydomain.zone|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.343
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|103.106.229.236|443|tcp|reality|sg.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.797
+},
+"c6cfcc53-9271-4ef7-88c5-5141621c8db1|31.59.216.141|443|tcp|reality|193.23.216.239.cdn-one.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.631
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls||/api/connect|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.327
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|?TELEGRAM--MARAMBASHI--MARAMBASHI": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|88.119.176.131|443|tcp|reality|litter.propper.beauty|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.729
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|216.222.201.73|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.205
+},
+"8674df07-56b3-43ea-b687-aef2b1a20137|ulet-bm-s1700.reverseenge.sbs|8443|grpc|reality|ulet-bm-s1700.reverseenge.sbs|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.636
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|23.95.76.164|443|tcp|reality|ca.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.164
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|80.47.6.12|443|tcp|reality|polkakurvich.hohoterz.beer|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|188.132.192.145|2087|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|45.154.206.88|443|tcp|reality|es.monkeyisland.xyz|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.609
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|103.31.4.127|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.144
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|be.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.75
+},
+"b6b222ad-5702-4416-90e7-6b1aa71d65bf|89.169.21.180|8443|tcp|reality|player.videocactus.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|78.153.155.149|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.132
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|polka.stopingiphatered.shop|443|tcp|reality|polka.stopingiphatered.shop|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|131.196.252.97|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.571
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|95.85.254.153|443|tcp|reality|polka.stopingiphatered.shop|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|185.146.234.242|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.827
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|polkakurvich.hohoterz.beer|443|tcp|reality|polkakurvich.hohoterz.beer|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.833
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|/?TELEGRAM--MARAMBASHI--MARAMBASHI": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|131.196.252.66|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.512
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|lv.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.856
+},
+"b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|130.94.1.177|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.043
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|polo.ali-bard.online|443|tcp|reality|polo.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.643
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|us.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.169
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|82.41.30.112|443|tcp|reality|example.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.115
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|27.0.232.36|443|tcp|reality|hk.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.003
+},
+"af83035e-5d32-4d07-b84d-4f8e219cd237|144.31.150.124|443|tcp|reality|fl3.sky-vault.top|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|77.83.246.202|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.213
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|170.168.4.52|443|tcp|reality|finl11.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.979
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|finl11.ali-bard.online|443|tcp|reality|finl11.ali-bard.online|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.034
+},
+"8f6e49e6-7f03-4f10-9da9-1716158d80ed|shaa5.pumpkinpie.study|443|tcp|reality|shaa5.pumpkinpie.study|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.384
+},
+"6a3c68b1-d4b8-0004-975f-a01da4184225|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.284
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|sg.monkora.org|443|tcp|reality|sg.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.825
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|br.monkora.org|443|tcp|reality|br.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.684
+},
+"21d0929a-ba27-4822-9b50-bda9ee54a494|n48.himoy.space|443|tcp|reality|n48.himoy.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.732
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|at.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.594
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|31.56.188.171|443|tcp|reality|example.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|199.68.198.13|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.643
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|147.45.116.19|443|tcp|reality|br.monkora.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.634
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|pl.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.78
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|yaruss.stopingiphatered.shop|443|tcp|reality|yaruss.stopingiphatered.shop|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 3.929
+},
+"8f6e49e6-7f03-4f10-9da9-1716158d80ed|greeeeeek.pumpkinpie.study|443|tcp|reality|greeeeeek.pumpkinpie.study|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.122
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|185.242.247.44|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.936
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|185.213.20.133|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.998
+},
+"4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|litter.propper.beauty|443|tcp|reality|litter.propper.beauty|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.985
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.863
+},
+"21d0929a-ba27-4822-9b50-bda9ee54a494|95.85.243.133|443|tcp|reality|n48.himoy.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.672
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|condrssw.ggisopi.su|443|tcp|reality|condrssw.ggisopi.su|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.515
+},
+"21d0929a-ba27-4822-9b50-bda9ee54a494|103.119.18.253|443|tcp|reality|n37.himoy.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.25
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|germa12.ggisopi.su|443|tcp|reality|germa12.ggisopi.su|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.875
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|89.125.13.155|443|tcp|reality|example.org|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.56
+},
+"3ebf23f9-e64a-4cad-a970-0562bc0fd8c0|91.215.43.80|443|ws|tls|sand.api.downloader-pet.xyz|/gateway/v1/ws/74c4d5e82a8e50ccf09fc628c17dc9be|sand.api.downloader-pet.xyz": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"2b886607-3d3a-0004-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.035
+},
+"4643976f-85fa-0003-9e58-ea28b50f253b|37.139.42.225|7448|tcp|reality||/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.214
+},
+"21d0929a-ba27-4822-9b50-bda9ee54a494|n37.himoy.space|443|tcp|reality|n37.himoy.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.246
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|ae.api-metrics-sync.xyz|20002|tcp|reality|condrssw.ggisopi.su|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4643976f-85fa-0002-9e58-ea28b50f253b|ae.api-metrics-sync.xyz|20002|tcp|reality|condrssw.ggisopi.su|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+}
+}
