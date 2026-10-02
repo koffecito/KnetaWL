@@ -35,7 +35,7 @@ XRAY_STARTUP_DELAY = float(os.environ.get("XRAY_STARTUP_DELAY", 1.0))
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", 8))
 XRAY_BIN = os.environ.get("XRAY_BIN", "xray")
 
-MAX_PROXIES = int(os.environ.get("MAX_PROXIES", 100))       # сколько прокси оставлять в итоговой подписке
+MAX_PROXIES = int(os.environ.get("MAX_PROXIES", 200))       # сколько прокси оставлять в итоговой подписке
 TOP_N_PROXIES = int(os.environ.get("TOP_N_PROXIES", 10))    # сколько лучших класть во вторую подписку
 NAME_SUFFIX = os.environ.get("NAME_SUFFIX", "@KnetaEx")     # хвост названия прокси
 
