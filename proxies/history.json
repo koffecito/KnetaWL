@@ -5,29 +5,29 @@
 "last_latency": null
 },
 "2690c11f-7258-43fe-aeb9-d90f93a3c317|81.94.148.120|7449|raw|reality|passport.yandex.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.278
+"last_latency": 0.952
 },
 "2690c11f-7258-43fe-aeb9-d90f93a3c317|81.94.148.120|7449|tcp|reality|passport.yandex.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.3
+"last_latency": 0.967
 },
 "d13baced-948a-40d7-be31-7b44fa768552|188.68.218.37|8443|xhttp|reality|rumulti.federal-usa.com|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.878
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|217.19.122.200|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.004
+"last_latency": 0.929
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|81.94.148.214|443|ws|tls|fbsv6.guardora.pro|/ws|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.15
+"last_latency": 0.886
 },
 "2c634977-584e-4e1f-b501-1b70c77a6743|185.141.227.180|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|": {
 "streak": 0,
@@ -35,9 +35,9 @@
 "last_latency": null
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|81.94.148.214|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.964
+"last_latency": 1.262
 },
 "2c634977-584e-4e1f-b501-1b70c77a6743|185.141.227.180|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|dismissaltree.net": {
 "streak": 0,
@@ -45,9 +45,9 @@
 "last_latency": null
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|46.243.232.125|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.97
+"last_latency": 1.168
 },
 "4deb9957-e037-4ae2-8892-da357cc6f99f|176.109.85.70|443|ws|tls|ware.tunnelgate.org|/ws/v1/ru|ware.tunnelgate.org": {
 "streak": 0,
@@ -65,14 +65,14 @@
 "last_latency": null
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|46.243.232.125|443|ws|tls|fbsv6.guardora.pro|/ws|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.957
+"last_latency": 0.985
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|188.225.79.44|443|raw|reality|eh.vk.ru|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.695
 },
 "5bba3558-ad1c-4d97-a360-7d993d503abd|185.91.52.13|30007|raw|reality|storage.yandexcloud.net|/|": {
 "streak": 0,
@@ -85,14 +85,14 @@
 "last_latency": null
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|78.159.246.110|443|ws|tls|fbsv6.guardora.pro|/ws|fbsv6.guardora.pro": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 1.012
+"last_latency": 1.459
 },
 "bc5ec86c-3e65-4272-994c-59a924c72a68|78.159.246.110|443|ws|tls|fbsv6.guardora.pro|/ws|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 0.981
+"last_latency": 1.162
 },
 "f99fcd23-6ce5-4c91-a402-c5ca99e90dae|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
 "streak": 0,
@@ -145,9 +145,9 @@
 "last_latency": null
 },
 "47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.17|8443|raw|reality|yandex.net|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.803
+"last_latency": 0.762
 },
 "8405ce10-ac91-499f-98d3-a26521a28384|185.86.144.101|443|raw|reality|yandex.ru|/|": {
 "streak": 0,
@@ -235,19 +235,19 @@
 "last_latency": null
 },
 "47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.17|8443|tcp|reality|yandex.net|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.778
+"last_latency": 0.749
 },
 "342ab7e4-5a89-0001-8809-304120d4aa83|95.85.224.51|443|tcp|reality|max.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.691
+"last_latency": 0.711
 },
 "11aabba0-5fd1-4f15-8068-74c1a466cefc|193.163.203.170|443|tcp|reality|yandex.ru|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.323
 },
 "95e58dd9-736f-4dc5-a3dd-b32f9c43d3cb|185.229.9.235|43005|raw|reality|max.ru|/|": {
 "streak": 0,
@@ -270,9 +270,9 @@
 "last_latency": null
 },
 "501a2da5-cb22-4a3f-915e-e3b821d1d62d|87.199.205.28|443|tcp|reality|vkvd754.okcdn.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.614
+"last_latency": 0.659
 },
 "0f4081e7-612b-425f-8def-eebf144aedba|185.91.53.86|8444|grpc|reality|ads.x5.ru|/|": {
 "streak": 0,
@@ -280,14 +280,14 @@
 "last_latency": null
 },
 "633f424e-2b11-48da-a6b3-a849dd71456f|45.12.75.242|26424|tcp|reality|ya.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.287
+"last_latency": 3.625
 },
 "1c332eae-7e02-4acd-996d-4eb3e652401c|144.31.50.236|443|raw|reality|yandex.ru|/|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 1.182
+"last_latency": 1.042
 },
 "4c00b7c0-de29-49c8-aadb-71800a628823|87.242.94.231|1443|grpc|reality|aurora-coffee.site|/|": {
 "streak": 0,
@@ -310,9 +310,9 @@
 "last_latency": null
 },
 "501a2da5-cb22-4a3f-915e-e3b821d1d62d|87.199.205.28|443|raw|reality|vkvd754.okcdn.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.629
+"last_latency": 0.654
 },
 "3710fc0f-5f0c-4b9c-a5d4-40cb419e943a|av513u.sysopnova.art|443|tcp|reality|yandex.ru|/|": {
 "streak": 1,
@@ -320,9 +320,9 @@
 "last_latency": 1.093
 },
 "1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|tcp|reality|yandex.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.618
+"last_latency": 1.195
 },
 "4ec4af01-e2a4-4d25-a2bb-10a03f154e93|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
 "streak": 0,
@@ -380,9 +380,9 @@
 "last_latency": null
 },
 "3710fc0f-5f0c-4b9c-a5d4-40cb419e943a|144.31.93.231|443|raw|reality|yandex.ru|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.905
 },
 "e35296cf-ba7d-4fac-a67e-313d98a4f648|185.229.9.176|49111|grpc|reality|max.ru|/|": {
 "streak": 0,
@@ -390,9 +390,9 @@
 "last_latency": null
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|109.120.181.153|443|tcp|reality|eh.vk.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.507
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|max.ru|/|": {
 "streak": 0,
@@ -520,9 +520,9 @@
 "last_latency": null
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|109.120.181.153|443|raw|reality|eh.vk.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 3.117
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "bb26e00a-f640-408b-bc9a-279879085c29|46.243.234.157|8445|raw|reality|passport.yandex.ru|/|": {
 "streak": 0,
@@ -545,9 +545,9 @@
 "last_latency": null
 },
 "633f424e-2b11-48da-a6b3-a849dd71456f|45.12.75.242|26424|raw|reality|ya.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.57
+"last_latency": 1.648
 },
 "43c610ca-c525-4dd1-bc82-efea7b94c54d|46.243.234.157|7443|raw|reality|s1.cdnguard.org|/|": {
 "streak": 0,
@@ -570,9 +570,9 @@
 "last_latency": null
 },
 "342ab7e4-5a89-0001-8809-304120d4aa83|95.85.224.51|443|raw|reality|max.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.693
+"last_latency": 0.591
 },
 "cff9e0ef-01ee-4e04-8c8f-f92a81876ee7|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
 "streak": 0,
@@ -595,9 +595,9 @@
 "last_latency": null
 },
 "47d9b534-8a0a-4bd2-90f1-1d6ade14427e|150.241.101.80|8443|raw|reality|yandex.net|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.817
+"last_latency": 0.737
 },
 "68f2a4fd-6532-4d64-a099-eccac73d591d|185.229.9.234|443|raw|reality|yandex.ru|/|": {
 "streak": 0,
@@ -610,9 +610,9 @@
 "last_latency": null
 },
 "1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|raw|reality|yandex.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 2.875
+"last_latency": 1.192
 },
 "be25970d-cfe3-4918-9862-6dbc5f9bacd5|91.240.87.166|443|raw|reality|www.vk.com|/|": {
 "streak": 0,
@@ -700,19 +700,19 @@
 "last_latency": null
 },
 "11aabba0-5fd1-4f15-8068-74c1a466cefc|193.163.203.170|443|raw|reality|yandex.ru|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 3.412
+"last_latency": 5.297
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|raw|reality|eh.vk.ru|/|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 5.462
+"last_latency": 2.661
 },
 "7f86f371-5a85-48be-babc-7af1ae7ffb75|198.55.102.59|4443|tcp|reality|vk.com|/|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 1.024
+"last_latency": 0.95
 },
 "f463c3c5-8c22-49f5-bb99-c7a1c37da831|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
 "streak": 0,
@@ -825,9 +825,9 @@
 "last_latency": null
 },
 "1c332eae-7e02-4acd-996d-4eb3e652401c|prep.wwwinternetvideo.click|443|tcp|reality|yandex.ru|/|yandex.ru": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.32
+"last_latency": 1.129
 },
 "372e3204-235f-46e9-99fb-5b693e504067|185.229.9.234|443|raw|reality|max.ru|/|": {
 "streak": 0,
@@ -920,9 +920,9 @@
 "last_latency": null
 },
 "d13baced-948a-40d7-be31-7b44fa768552|rumultt.federal-usa.com|8443|xhttp|reality|rumulti.federal-usa.com|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 1.007
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "441afe11-a180-4516-bb80-80a8a6b38705|bl3fk52.sysopnova.art|443|tcp|reality|yandex.ru|/|": {
 "streak": 0,
@@ -995,14 +995,14 @@
 "last_latency": null
 },
 "ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls|wstg.datasynctrue.online|/api/connect|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 1.08
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "4054fdc2-ee80-4419-8a8e-d937df4719e2|78.159.250.214|443|tcp|reality|qq.utiltools.site|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.868
+"last_latency": 0.819
 },
 "ff0b6ba8-bed0-4c4d-bbc9-23af47582615|188.225.33.141|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
 "streak": 0,
@@ -1070,9 +1070,9 @@
 "last_latency": null
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|37.139.42.225|7448|tcp|reality||/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.919
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "1bb2af63-4472-44ed-9c70-8f316258b68b|185.229.9.176|42017|tcp|reality|ligastavok.ru|/|": {
 "streak": 0,
@@ -1090,9 +1090,9 @@
 "last_latency": null
 },
 "f4d71fd6-1c25-4748-836b-1dbda9268039|85.117.235.50|443|raw|reality|cz1.animeteka.info|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.03
+"last_latency": 0.849
 },
 "a1e54ee8-d089-439d-86fc-f2384795cdc7|94.139.255.239|443|ws|tls|krepmet.site|/api/v2/session/sVwGfUSAEGlm|krepmet.site": {
 "streak": 1,
@@ -1355,9 +1355,9 @@
 "last_latency": null
 },
 "4054fdc2-ee80-4419-8a8e-d937df4719e2|qq.utiltools.site|443|tcp|reality|qq.utiltools.site|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.919
+"last_latency": 0.868
 },
 "3d9daa27-6283-406d-a2d4-c6f22c635a14|pl.astrafic.ru|443|grpc|tls|pl.astrafic.ru|/|": {
 "streak": 0,
@@ -1390,19 +1390,19 @@
 "last_latency": null
 },
 "f4d71fd6-1c25-4748-836b-1dbda9268039|2.26.104.40|443|tcp|reality|s5.mangateka.top|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.074
+"last_latency": 0.942
 },
 "91d734be-a3d0-4d50-83ab-74cf7b6966fa|144.31.215.227|443|tcp|reality|cdn-de.bulkavpn.top|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.654
+"last_latency": 0.584
 },
 "91d734be-a3d0-4d50-83ab-74cf7b6966fa|cdn-de.bulkavpn.top|443|tcp|reality|cdn-de.bulkavpn.top|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.719
+"last_latency": 0.562
 },
 "info1|xn--80.com|443|grpc|reality|lolz.com|/|": {
 "streak": 0,
@@ -1410,9 +1410,9 @@
 "last_latency": null
 },
 "b5d9ae01-a4fd-49ed-a37e-932203019405|185.106.98.124|59443|tcp|reality|dash.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.516
+"last_latency": 0.438
 },
 "7c67c947-1028-45bb-8b30-99685f398674|80.93.202.14|443|ws|tls|finis.ochmaybrooooo.online|/|finis.ochmaybrooooo.online": {
 "streak": 0,
@@ -1455,9 +1455,9 @@
 "last_latency": null
 },
 "91d734be-a3d0-4d50-83ab-74cf7b6966fa|185.166.154.111|443|tcp|reality|cdn.bulkavpn.top|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.73
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "2897717e-55b6-4d3d-8752-72c5fd4614ae|13.143.185.29|8448|xhttp|reality|api-maps.yandex.ru|/assets/v2|13.143.185.29": {
 "streak": 0,
@@ -1620,19 +1620,19 @@
 "last_latency": null
 },
 "00144519-7e0d-476b-8d28-435576af9262|167.17.69.171|443|raw|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.306
+"last_latency": 0.199
 },
 "8f704ed6-9a1a-4d04-94dd-1bff501716de|85.90.197.220|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.759
+"last_latency": 0.663
 },
 "d1a6a033-fdbd-46a6-a177-3370ba042b9f|46.28.67.55|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.9
+"last_latency": 0.786
 },
 "7f02e3c5-e386-4cfe-bd24-c49d196638b6|109.69.20.101|2088|tcp|reality|dl.google.com|/|": {
 "streak": 0,
@@ -1645,14 +1645,14 @@
 "last_latency": null
 },
 "ca52e2b6-fb9f-4dac-b6dc-49da9923f251|209.200.246.148|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.4
+"last_latency": 0.244
 },
 "12c53e32-e589-47d6-b857-e4132294f767|46.28.71.247|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.806
+"last_latency": 0.679
 },
 "c86c572a-7253-401e-90ba-f3d07fc7e8c2|netherlands.avara.fit|443|grpc|reality|netherlands.avara.fit|/|": {
 "streak": 0,
@@ -1660,9 +1660,9 @@
 "last_latency": null
 },
 "975fc322-6e38-434b-a53c-d39fed49b9a9|47.251.108.158|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.142
+"last_latency": 0.187
 },
 "7c67c947-1028-45bb-8b30-99685f398674|195.133.197.7|443|ws|tls|neder.ochmaybrooooo.online|/|neder.ochmaybrooooo.online": {
 "streak": 0,
@@ -1670,9 +1670,9 @@
 "last_latency": null
 },
 "3950b45e-740d-4dca-ac95-505ec8534592|45.90.59.15|443|tcp|reality|www.cloudflare.com|/|www.cloudflare.com": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.707
+"last_latency": 0.564
 },
 "5d16ac22-6eea-426f-b778-6f4c2961faef|176.109.111.152|9894|grpc|reality|dl.google.com|/|": {
 "streak": 0,
@@ -1690,9 +1690,9 @@
 "last_latency": null
 },
 "05488656-d4bf-4634-8b2e-e4ff5a56c7e2|82.118.22.161|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 5.691
+"last_latency": 2.78
 },
 "f9613819-d2fe-4b3a-a2e6-40c184c6854c|194.87.143.165|8443|ws|tls|wsru1.wba-pn.ru|/|": {
 "streak": 0,
@@ -1700,9 +1700,9 @@
 "last_latency": null
 },
 "d7d724b5-17ce-4f3c-877d-dfbf0f07afa1|150.251.113.34|443|tcp|reality|www.cloudflare.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.744
+"last_latency": 5.181
 },
 "5d16ac22-6eea-426f-b778-6f4c2961faef|176.108.243.18|9872|grpc|reality|dl.google.com|/|": {
 "streak": 0,
@@ -1745,14 +1745,14 @@
 "last_latency": null
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|46.28.71.154|443|tcp|reality|spanish67.kovsh.lol|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.083
+"last_latency": 1.673
 },
 "8f6e49e6-7f03-4f10-9da9-1716158d80ed|islam.konus.buzz|443|tcp|reality|islam.konus.buzz|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.679
+"last_latency": 0.504
 },
 "0dca2cfe-98eb-4f9d-9a47-cf87510c558b|104.171.132.197|443|grpc|tls|es.avroraservice.online|/|": {
 "streak": 0,
@@ -1760,29 +1760,29 @@
 "last_latency": null
 },
 "2b886607-3d3a-0006-ad62-e3e8a1ba20ca|lk-1.yes-on.ru|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 2.099
+"last_latency": 1.986
 },
 "2b886607-3d3a-0007-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.817
+"last_latency": 0.762
 },
 "2b886607-3d3a-0006-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.836
+"last_latency": 0.737
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|2.58.66.198|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.549
+"last_latency": 0.498
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|144.31.219.97|443|tcp|reality|example.org|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.628
+"last_latency": 0.46
 },
 "eeec4cba-d104-4f31-b6d6-fca086e14250|87.120.252.191|443|tcp|reality|worldoftanks.eu|/|": {
 "streak": 0,
@@ -1815,29 +1815,29 @@
 "last_latency": null
 },
 "2b886607-3d3a-0002-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.842
+"last_latency": 0.743
 },
 "24e3a924-fc4b-4e3f-98a8-85d506d530f9|151.241.166.137|443|tcp|reality|151.241.166.137.sslip.io|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.668
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|86.54.82.184|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.578
+"last_latency": 0.536
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|cz.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.633
+"last_latency": 0.559
 },
 "2b886607-3d3a-0003-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.805
+"last_latency": 0.763
 },
 "c4394e27-baeb-422d-8905-a93f8e01126f|cdn2.alihapp.com|443|xhttp|tls|cdn2.alihapp.com|/|cdn2.alihapp.com": {
 "streak": 0,
@@ -1845,14 +1845,14 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|de.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.606
+"last_latency": 0.541
 },
 "24e3a924-fc4b-4e3f-98a8-85d506d530f9|94.183.253.211|443|tcp|reality|germ2.serverslocal.ru|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.595
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|5.45.107.150|8443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -1860,14 +1860,14 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|62.192.153.132|443|tcp|reality|example.org|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.55
+"last_latency": 0.49
 },
 "1c5ed2e1-56da-41ab-9a78-159d9892ec17|185.147.26.210|443|tcp|reality|example.com|/|/?telegram--marambashi--marambashi": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.755
+"last_latency": 0.732
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|109.172.8.48|8443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -1875,9 +1875,9 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|it.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.825
+"last_latency": 0.595
 },
 "d207c6c8-a278-487c-b06e-f1fc89304e6d|172.67.223.131|80|xhttp|none|fl.subnimnet2.ir|/ws/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET|fl.subnimnet2.ir": {
 "streak": 0,
@@ -1890,19 +1890,19 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|2.58.66.143|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.596
+"last_latency": 1.067
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|31.76.119.123|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.6
+"last_latency": 0.495
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|31.76.119.17|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.553
+"last_latency": 0.474
 },
 "c4394e27-baeb-422d-8905-a93f8e01126f|cdn9.alihapp.com|443|xhttp|tls|cdn9.alihapp.com|/|cdn9.alihapp.com": {
 "streak": 0,
@@ -1915,29 +1915,29 @@
 "last_latency": null
 },
 "6a3c68b1-d4b8-0006-975f-a01da4184225|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 4.119
-},
-"92d67828-4c56-4795-af5a-f387651380dc|trackydev.site|443|ws|tls|trackydev.site|/|trackydev.site": {
 "streak": 2,
 "last_ok": true,
-"last_latency": 1.025
+"last_latency": 1.803
+},
+"92d67828-4c56-4795-af5a-f387651380dc|trackydev.site|443|ws|tls|trackydev.site|/|trackydev.site": {
+"streak": 3,
+"last_ok": true,
+"last_latency": 1.045
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|ca.monkora.org|443|tcp|reality|ca.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.342
+"last_latency": 0.181
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|se.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.998
+"last_latency": 0.7
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|2.26.148.145|443|tcp|reality|polo.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.639
+"last_latency": 0.529
 },
 "c4394e27-baeb-422d-8905-a93f8e01126f|cdn.alihapp.com|443|xhttp|tls|cdn.alihapp.com|/|cdn.alihapp.com": {
 "streak": 0,
@@ -1945,34 +1945,34 @@
 "last_latency": null
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|litva1.ali-bard.online|443|tcp|reality|litva1.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.736
+"last_latency": 0.632
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|85.159.228.223|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.797
+"last_latency": 0.82
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|nl.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.746
+"last_latency": 0.515
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|hk.monkora.org|443|tcp|reality|hk.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.053
+"last_latency": 1.163
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|93.115.24.216|443|tcp|reality|litva1.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.727
+"last_latency": 0.601
 },
 "24e3a924-fc4b-4e3f-98a8-85d506d530f9|13.143.184.226|443|tcp|reality|msc1.serverslocal.ru|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.74
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|103.31.4.189|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -1980,14 +1980,14 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|fi.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.963
+"last_latency": 0.75
 },
 "6a3c68b1-d4b8-0004-975f-a01da4184225|lk-1.yes-on.ru|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 4.417
+"last_latency": 1.317
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|109.172.8.73|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -1995,24 +1995,24 @@
 "last_latency": null
 },
 "4275431a-f97c-4d84-929a-9ef411d3d10b|r1256197.s2537.vm.mydomain.zone|443|xhttp|reality|r1256197.s2537.vm.mydomain.zone|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.745
+"last_latency": 2.075
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|103.106.229.236|443|tcp|reality|sg.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.755
+"last_latency": 0.808
 },
 "c6cfcc53-9271-4ef7-88c5-5141621c8db1|31.59.216.141|443|tcp|reality|193.23.216.239.cdn-one.org|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 4.348
+"last_latency": 3.7
 },
 "ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls||/api/connect|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.901
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|?TELEGRAM--MARAMBASHI--MARAMBASHI": {
 "streak": 0,
@@ -2020,29 +2020,29 @@
 "last_latency": null
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|88.119.176.131|443|tcp|reality|litter.propper.beauty|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.808
+"last_latency": 0.672
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|216.222.201.73|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.056
+"last_latency": 0.198
 },
 "8674df07-56b3-43ea-b687-aef2b1a20137|ulet-bm-s1700.reverseenge.sbs|8443|grpc|reality|ulet-bm-s1700.reverseenge.sbs|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.742
+"last_latency": 0.617
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|23.95.76.164|443|tcp|reality|ca.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.319
+"last_latency": 0.152
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|80.47.6.12|443|tcp|reality|polkakurvich.hohoterz.beer|/|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 0.651
+"last_latency": 0.588
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|188.132.192.145|2087|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2050,9 +2050,9 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|45.154.206.88|443|tcp|reality|es.monkeyisland.xyz|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.63
+"last_latency": 0.524
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|103.31.4.127|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2060,29 +2060,29 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|be.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.655
+"last_latency": 0.621
 },
 "b6b222ad-5702-4416-90e7-6b1aa71d65bf|89.169.21.180|8443|tcp|reality|player.videocactus.xyz|/|": {
-"streak": 2,
-"last_ok": true,
-"last_latency": 1.229
-},
-"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
-},
-"454431fc-71e2-42b1-b375-5b55dd06666a|78.153.155.149|443|tcp|reality|example.org|/|": {
 "streak": 3,
 "last_ok": true,
-"last_latency": 0.184
+"last_latency": 1.424
+},
+"adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 4.835
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|78.153.155.149|443|tcp|reality|example.org|/|": {
+"streak": 4,
+"last_ok": true,
+"last_latency": 0.144
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|polka.stopingiphatered.shop|443|tcp|reality|polka.stopingiphatered.shop|/|": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 2.295
+"last_latency": 4.213
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|131.196.252.97|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2090,9 +2090,9 @@
 "last_latency": null
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|95.85.254.153|443|tcp|reality|polka.stopingiphatered.shop|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 3.254
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|185.146.234.242|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2100,14 +2100,14 @@
 "last_latency": null
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|polkakurvich.hohoterz.beer|443|tcp|reality|polkakurvich.hohoterz.beer|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.695
+"last_latency": 0.871
 },
 "adc11f30-e4cb-4985-bf5e-f9ded69c019f|90.156.218.163|443|tcp|reality|eh.vk.ru|/|/?TELEGRAM--MARAMBASHI--MARAMBASHI": {
-"streak": 2,
+"streak": 3,
 "last_ok": true,
-"last_latency": 1.023
+"last_latency": 2.699
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|131.196.252.66|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2115,9 +2115,9 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|lv.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.897
+"last_latency": 0.884
 },
 "b1c31d36-c6b5-414b-88d2-9e24e7bfcca3|130.94.1.177|443|ws|tls|www.nihaoyun.top|/|www.nihaoyun.top": {
 "streak": 0,
@@ -2125,24 +2125,24 @@
 "last_latency": null
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|polo.ali-bard.online|443|tcp|reality|polo.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.695
+"last_latency": 0.557
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|us.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.07
+"last_latency": 0.239
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|82.41.30.112|443|tcp|reality|example.com|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.131
+"last_latency": 1.068
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|27.0.232.36|443|tcp|reality|hk.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.804
+"last_latency": 1.0
 },
 "af83035e-5d32-4d07-b84d-4f8e219cd237|144.31.150.124|443|tcp|reality|fl3.sky-vault.top|/|": {
 "streak": 0,
@@ -2150,39 +2150,39 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|77.83.246.202|443|tcp|reality|example.org|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.708
+"last_latency": 0.572
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|170.168.4.52|443|tcp|reality|finl11.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.677
+"last_latency": 3.211
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|finl11.ali-bard.online|443|tcp|reality|finl11.ali-bard.online|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.327
+"last_latency": 1.564
 },
 "8f6e49e6-7f03-4f10-9da9-1716158d80ed|shaa5.pumpkinpie.study|443|tcp|reality|shaa5.pumpkinpie.study|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.558
+"last_latency": 0.569
 },
 "6a3c68b1-d4b8-0004-975f-a01da4184225|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.985
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|sg.monkora.org|443|tcp|reality|sg.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.779
+"last_latency": 0.844
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|br.monkora.org|443|tcp|reality|br.monkora.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.686
+"last_latency": 0.681
 },
 "21d0929a-ba27-4822-9b50-bda9ee54a494|n48.himoy.space|443|tcp|reality|n48.himoy.space|/|": {
 "streak": 0,
@@ -2190,54 +2190,54 @@
 "last_latency": null
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|at.monkora.org|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.67
+"last_latency": 0.606
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|31.56.188.171|443|tcp|reality|example.org|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
-},
-"454431fc-71e2-42b1-b375-5b55dd06666a|199.68.198.13|443|tcp|reality|example.org|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.722
-},
-"454431fc-71e2-42b1-b375-5b55dd06666a|147.45.116.19|443|tcp|reality|br.monkora.org|/|": {
-"streak": 3,
-"last_ok": true,
-"last_latency": 0.681
-},
-"454431fc-71e2-42b1-b375-5b55dd06666a|pl.monkora.org|443|tcp|reality|example.org|/|": {
 "streak": 1,
 "last_ok": true,
-"last_latency": 0.819
+"last_latency": 0.507
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|199.68.198.13|443|tcp|reality|example.org|/|": {
+"streak": 4,
+"last_ok": true,
+"last_latency": 0.639
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|147.45.116.19|443|tcp|reality|br.monkora.org|/|": {
+"streak": 4,
+"last_ok": true,
+"last_latency": 0.662
+},
+"454431fc-71e2-42b1-b375-5b55dd06666a|pl.monkora.org|443|tcp|reality|example.org|/|": {
+"streak": 2,
+"last_ok": true,
+"last_latency": 0.626
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|yaruss.stopingiphatered.shop|443|tcp|reality|yaruss.stopingiphatered.shop|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.943
+"last_latency": 9.337
 },
 "8f6e49e6-7f03-4f10-9da9-1716158d80ed|greeeeeek.pumpkinpie.study|443|tcp|reality|greeeeeek.pumpkinpie.study|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.093
+"last_latency": 3.473
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|185.242.247.44|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.724
+"last_latency": 0.623
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|185.213.20.133|443|tcp|reality|example.org|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.649
+"last_latency": 0.537
 },
 "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b|litter.propper.beauty|443|tcp|reality|litter.propper.beauty|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.132
+"last_latency": 0.735
 },
 "ff0b6ba8-bed0-4c4d-bbc9-23af47582615|wstg.datasynctrue.online|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
 "streak": 0,
@@ -2250,9 +2250,9 @@
 "last_latency": null
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|condrssw.ggisopi.su|443|tcp|reality|condrssw.ggisopi.su|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 0.933
+"last_latency": 0.543
 },
 "21d0929a-ba27-4822-9b50-bda9ee54a494|103.119.18.253|443|tcp|reality|n37.himoy.space|/|": {
 "streak": 0,
@@ -2260,14 +2260,14 @@
 "last_latency": null
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|germa12.ggisopi.su|443|tcp|reality|germa12.ggisopi.su|/|": {
-"streak": 3,
+"streak": 4,
 "last_ok": true,
-"last_latency": 1.077
+"last_latency": 1.027
 },
 "454431fc-71e2-42b1-b375-5b55dd06666a|89.125.13.155|443|tcp|reality|example.org|/|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.587
 },
 "3ebf23f9-e64a-4cad-a970-0562bc0fd8c0|91.215.43.80|443|ws|tls|sand.api.downloader-pet.xyz|/gateway/v1/ws/74c4d5e82a8e50ccf09fc628c17dc9be|sand.api.downloader-pet.xyz": {
 "streak": 0,
@@ -2275,9 +2275,9 @@
 "last_latency": null
 },
 "2b886607-3d3a-0004-ad62-e3e8a1ba20ca|85.209.135.145|443|tcp|reality|lk-1.yes-on.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 2.083
+"last_latency": 1.006
 },
 "4643976f-85fa-0003-9e58-ea28b50f253b|37.139.42.225|7448|tcp|reality||/|": {
 "streak": 0,
@@ -2580,9 +2580,9 @@
 "last_latency": null
 },
 "f811a2e8-08ed-4b30-b44c-449a7cab54d8|201.34.137.215|443|tcp|reality|max.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.734
+"last_latency": 0.667
 },
 "4643976f-85fa-40cf-9e58-ea28b50f253b|188.225.25.22|443|raw|reality||/|": {
 "streak": 0,
@@ -2630,14 +2630,14 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|176.108.242.55|5002|ws|tls|lm.centermass.net|/media.playback.v1.SessionGateway|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 1.164
+"last_latency": 1.07
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|95.163.215.8|5003|tcp|reality|eh.vk.com|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 1.414
+"last_latency": 0.799
 },
 "3f2e96a9-f1c5-42ad-bccc-24c5a10e5afe|91.218.230.180|443|xhttp|reality|ihk.astmatik.xyz|/api/v1/data|91.218.230.180": {
 "streak": 0,
@@ -2645,9 +2645,9 @@
 "last_latency": null
 },
 "f80b4d32-81b4-42a7-9b89-bb219682375c|217.16.18.121|443|tcp|reality|eh.vk.com|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.79
+"last_latency": 0.697
 },
 "fd820220-3d27-4f56-b8fa-a0421200e217|46.8.209.69|9443|grpc|reality|cdn.okko.tv|/|": {
 "streak": 0,
@@ -2655,14 +2655,14 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|213.171.31.34|5002|ws|tls|us.centermass.net|/media.playback.v1.SessionGateway|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 1.795
+"last_latency": 1.723
 },
 "1bb2af63-4472-44ed-9c70-8f316258b68b|62.152.58.90|443|grpc|reality|360.yandex.ru|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.995
+"last_latency": 1.133
 },
 "2c634977-584e-4e1f-b501-1b70c77a6743|dismissaltree.net|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|": {
 "streak": 0,
@@ -2670,24 +2670,24 @@
 "last_latency": null
 },
 "48e1b9d0-28ba-4451-99b9-92583072a0f1|185.22.234.20|443|tcp|reality|avatars.mds.yandex.net|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.991
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "ebd1c0d6-7ff4-4b9f-8692-237517a27a64|195.133.73.65|443|tcp|reality|anyfile2file.com|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.737
+"last_latency": 0.624
 },
 "c53ea5e9-ed8b-4990-805d-7f1d6451426c|du-rov.secureservice.top|8443|tcp|reality|du-rov.secureservice.top|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.947
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "ff0b6ba8-bed0-4c4d-bbc9-23af47582615|200.165.231.209|443|ws|tls|wstg.datasynctrue.online|/api/connect|wstg.datasynctrue.online": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.993
+"last_latency": 0.869
 },
 "f04cc810-aaf2-4a7b-8cad-356cdd30d394|tg1.cdnphotos.org|443|xhttp|tls|tg1.cdnphotos.org|/api/v1/|": {
 "streak": 0,
@@ -2695,14 +2695,14 @@
 "last_latency": null
 },
 "48e1b9d0-28ba-4451-99b9-92583072a0f1|178.248.236.7|50443|tcp|reality|rutube.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.87
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "c53ea5e9-ed8b-4990-805d-7f1d6451426c|5.42.99.64|8443|tcp|reality|du-rov.secureservice.top|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 0.864
+"last_latency": 0.946
 },
 "8b25a466-71a7-4eef-b735-3d7b9901e74c|37.44.197.187|443|xhttp|tls|api-v2.annet.site|/|api-v2.annet.site": {
 "streak": 0,
@@ -2770,9 +2770,9 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|176.108.242.55|5002|ws|tls|lm.centermass.net|media.playback.v1.SessionGateway|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 1.16
+"last_latency": 1.071
 },
 "696c3dae-26ac-46d2-b4a3-81324824ecf3|anglechanin.karp1pdd.life|443|ws|tls|anglechanin.karp1pdd.life|/wsgate|anglechanin.karp1pdd.life": {
 "streak": 0,
@@ -2795,9 +2795,9 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|95.163.215.8|6002|ws|tls|fin1.centermass.net|media.playback.v1.SessionGateway|": {
-"streak": 0,
-"last_ok": false,
-"last_latency": null
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.084
 },
 "1e73cbd1-82b0-4df2-90da-552e62368f07|91.215.40.218|443|xhttp|tls|nlw-guard-1.harknmav.fun|/api/v2/upload/8a3f1c5be24d2854|": {
 "streak": 0,
@@ -2850,9 +2850,9 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|213.171.31.34|5002|ws|tls|us.centermass.net|media.playback.v1.SessionGateway|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 2.139
+"last_latency": 2.076
 },
 "1e73cbd1-82b0-4df2-90da-552e62368f07|91.215.40.194|443|xhttp|tls|ya-gaming-guard-4.harknmav.fun|/api/v2/upload/8a3f1c5be24d2854|": {
 "streak": 0,
@@ -2895,19 +2895,19 @@
 "last_latency": null
 },
 "0f46d055-17ab-429b-8663-95634b61b50c|45.9.24.205|443|ws|tls|promsnab.cc|/catalog/feed/yip1n72FJYVW|promsnab.cc": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.158
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "0f46d055-17ab-429b-8663-95634b61b50c|94.139.255.239|443|ws|tls|krepmet.site|/api/v2/session/sVwGfUSAEGlm|krepmet.site": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.184
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "0f46d055-17ab-429b-8663-95634b61b50c|178.170.197.118|443|ws|tls|stroyservis.cc|/cart/sync/Y_Ddvmazjiqm|stroyservis.cc": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.167
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "36c05926-85fc-49f6-af57-17aceb7fc3cc|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
 "streak": 0,
@@ -2930,9 +2930,9 @@
 "last_latency": null
 },
 "8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|95.163.215.8|5003|raw|reality|eh.vk.com|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 5.142
+"last_latency": 0.794
 },
 "b9e2db7a-4a08-4641-90c5-7c1c8fa25484|188.225.62.104|443|raw|reality|max.ru|/|": {
 "streak": 0,
@@ -2940,19 +2940,19 @@
 "last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/gateway/v1/ws/74c4d5e82a8e50ccf09fc628c17dc9be|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.104
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.234|443|raw|reality|max.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.407
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|31.177.111.114|443|raw|reality|yandex.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.79
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "9737cc16-7266-45ce-94d9-6e05a45e0b9c|84.38.183.237|443|ws|tls|ws.nightproducts.ru|/vless|": {
 "streak": 0,
@@ -2960,24 +2960,24 @@
 "last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|31.177.111.114|443|raw|reality|www.vk.com|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.81
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.234|443|raw|reality|www.vk.com|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.34
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.555
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|91.240.87.166|443|raw|reality|yandex.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.792
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.175|443|raw|reality|api.ok.ru|/|": {
 "streak": 0,
@@ -2985,14 +2985,14 @@
 "last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.235|43005|raw|reality|max.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.757
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|91.240.87.166|443|raw|reality|www.vk.com|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.787
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.175|443|raw|reality|yandex.ru|/|": {
 "streak": 0,
@@ -3010,9 +3010,9 @@
 "last_latency": null
 },
 "09194741-31ab-4388-985b-5cc607bbabbf|185.229.9.234|443|raw|reality|yandex.ru|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 2.323
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "4c3d2ead-4f75-4c92-8c32-502857952513|194.55.239.113|443|grpc|reality|sso.passport.yandex.ru|/|": {
 "streak": 0,
@@ -3060,9 +3060,9 @@
 "last_latency": null
 },
 "0f46d055-17ab-429b-8663-95634b61b50c|95.129.236.216|443|ws|tls|data-hz32.crm.hourtley.com|/origin/190546791/fetch|data-hz32.crm.hourtley.com": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.157
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "4c3d2ead-4f75-4c92-8c32-502857952513|185.22.235.181|443|grpc|reality|api-maps.yandex.ru|/|": {
 "streak": 0,
@@ -3070,9 +3070,9 @@
 "last_latency": null
 },
 "4868dd1f-4cb8-41a6-997f-d0d0d02c88d9|94.139.255.239|443|ws|tls|krepmet.site|/catalog/feed/WuS2vn_EyDEQ|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 1.072
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "4c3d2ead-4f75-4c92-8c32-502857952513|185.22.235.181|443|grpc|reality|web.max.ru|/|": {
 "streak": 0,
@@ -3090,9 +3090,9 @@
 "last_latency": null
 },
 "0f46d055-17ab-429b-8663-95634b61b50c|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
-"streak": 1,
-"last_ok": true,
-"last_latency": 0.872
+"streak": 0,
+"last_ok": false,
+"last_latency": null
 },
 "b9e2db7a-4a08-4641-90c5-7c1c8fa25484|91.215.42.63|443|xhttp|tls|me.nehtar.ru|/api/users/loadChunk/|me.nehtar.ru": {
 "streak": 0,
@@ -3110,11 +3110,366 @@
 "last_latency": null
 },
 "5bba3558-ad1c-4d97-a360-7d993d503abd|185.91.54.154|30007|raw|reality|storage.yandexcloud.net|/|": {
-"streak": 1,
+"streak": 2,
 "last_ok": true,
-"last_latency": 5.903
+"last_latency": 5.998
 },
 "dfad3362-8534-4495-bf49-89f2ae229e7a|37.9.4.112|443|raw|reality|eh.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.235|43005|tcp|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"7c281059-965d-44f9-b12b-c22d662827c6|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.234|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ff65fb9b-552f-426f-8321-4c85024377e6|194.55.239.148|443|raw|reality|my.selectel.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.175|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.235|43005|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|31.177.111.114|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5bba3558-ad1c-4d97-a360-7d993d503abd|files-d1c1.julsapart.com|30007|tcp|reality|storage.yandexcloud.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 5.894
+},
+"0ab2bb4f-c8ad-4c52-a94f-7a69c71d76f5|193.233.217.17|2443|tcp|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|31.177.111.114|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5bba3558-ad1c-4d97-a360-7d993d503abd|files-d1c1.julsapart.com|30007|raw|reality|storage.yandexcloud.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 2.103
+},
+"65b9f3f7-ce88-4f3c-852d-3d82f54c924e|94.139.255.239|443|ws|tls|krepmet.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c7eadd30-25fd-41ff-b880-69b2db15e36c|37.139.42.208|9444|raw|reality|res.cdnguard.org|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4efe3cb1-f378-4c6d-9f29-175639efb0de|188.225.77.177|443|grpc|reality|cloudcdn-m9-12.cdn.yandex.net|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.234|443|tcp|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0f46d055-17ab-429b-8663-95634b61b50c|95.129.236.216|443|ws|tls|data-hz32.crm.hourtley.com|/|data-hz32.crm.hourtley.com": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"612ace20-eddd-4756-a99f-fe4d96c22d06|138.124.241.15|1443|tcp|reality|ya.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.769
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|91.240.87.166|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ff65fb9b-552f-426f-8321-4c85024377e6|85.208.87.32|443|tcp|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5bba3558-ad1c-4d97-a360-7d993d503abd|185.91.54.154|30007|tcp|reality|storage.yandexcloud.net|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.863
+},
+"2690c11f-7258-43fe-aeb9-d90f93a3c317|81.94.148.120|7449|tcp|reality|passport.yandex.ru|/|passport.yandex.ru": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.95
+},
+"09194741-31ab-4388-985b-5cc607bbabbf|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"612ace20-eddd-4756-a99f-fe4d96c22d06|31.76.46.140|1443|tcp|reality|ya.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.092
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|91.240.87.166|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"b80b392c-0cf4-42f9-ae54-9f862e3ba276|176.109.85.70|443|ws|tls|ware.tunnelgate.org|/|ware.tunnelgate.org": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0ab2bb4f-c8ad-4c52-a94f-7a69c71d76f5|193.233.217.17|5443|tcp|reality|ads.x5.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c7eadd30-25fd-41ff-b880-69b2db15e36c|94.139.255.239|443|ws|tls|krepmet.site|/|krepmet.site": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c7eadd30-25fd-41ff-b880-69b2db15e36c|45.9.24.205|443|ws|tls|promsnab.cc|/|promsnab.cc": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4868dd1f-4cb8-41a6-997f-d0d0d02c88d9|94.139.255.239|443|ws|tls|krepmet.site|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e9ba7694-8d07-4ddf-8573-c924dc09577a|191.44.38.143|8443|tcp|reality|nl2.yabloko.top|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.723
+},
+"1b7ee703-fa08-4305-8469-ae3e30e61e44|5.42.96.76|443|tcp|reality|ruself.yandex-api.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.631
+},
+"a08b9c24-3252-4f7f-afa9-4a37040950fd|193.160.208.137|443|grpc|reality|api.hexagonicfield.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"10394279-283c-4ab8-8529-f1e0a4c61bc8|45.93.201.119|443|grpc|reality|vir2albridge.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"fe7a9e7a-cd1f-4128-b2a1-48ef38dd107e|191.44.38.143|8443|tcp|reality|nl2.yabloko.top|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.777
+},
+"10394279-283c-4ab8-8529-f1e0a4c61bc8|185.207.66.8|443|grpc|reality|hexagonicfield.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1291195a-ec3b-45bf-9381-9e2fce710813|185.141.227.180|2053|xhttp|tls|dismissaltree.net|/api/v1/upload|dismissaltree.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1291195a-ec3b-45bf-9381-9e2fce710813|78.159.250.84|8443|xhttp|tls|summerculture.net|/api/v1/upload|summerculture.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"1291195a-ec3b-45bf-9381-9e2fce710813|37.18.14.168|2053|xhttp|tls|9micenasralnakover.net|/api/v1/upload|9micenasralnakover.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"c2bbf90c-7f13-47dd-b68d-f0bd38b6b3c8|randomquaint.net|2053|xhttp|tls|randomquaint.net|/api/v1/upload|randomquaint.net": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f4d71fd6-1c25-4748-836b-1dbda9268039|85.117.235.50|443|tcp|reality|cz1.animeteka.info|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.842
+},
+"9021cede-43f0-5aa1-a802-e9590b1a5ff7|5.188.81.58|443|xhttp|reality|media.illusion-id.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.666
+},
+"8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5|renderer-bridge-1-832.mirra.now|443|grpc|tls|renderer-bridge-1-832.mirra.now|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"51a0af77-a60c-4d9b-81a4-f50e1b38d90b|194.58.109.206|8443|ws|tls|cf3.schzyc.cc.cd|/proxyip=ProxyIP.CMLiussss.net|cf3.schzyc.cc.cd": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"8e8ea5d2-6941-40fb-9efe-f9062b11b2b9|82.202.157.123|5003|tcp|reality|google.fr|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.791
+},
+"e6261601-0ba9-465d-9c70-6c8b4e47c7e4|62.109.19.28|443|tcp|reality|duckduckgo.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e6261601-0ba9-465d-9c70-6c8b4e47c7e4|185.146.156.181|443|tcp|reality|duckduckgo.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|195.58.34.159|9892|grpc|reality|dl.google.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"dfdbdc06-024e-41f1-9581-5252c6d3ee93|freeru01.tunnely.space|443|tcp|reality|free01.tunnely.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 1.027
+},
+"7e0286e5-0274-44ed-9f7d-78c58d0df109|185.141.227.145|443|tcp|reality|my.selectel.ru|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.807
+},
+"00625f73-0343-43fb-9738-a3052638cfe7|freeru01.tunnely.space|443|tcp|reality|free07.tunnely.space|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.996
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|es-01.avroraservice.online|443|xhttp|tls|es-01.avroraservice.online|/xhttp|es-01.avroraservice.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|us1.avroraservice.online|443|grpc|tls|us1.avroraservice.online|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|pl-1.avroraservice.online|443|xhttp|tls|pl-1.avroraservice.online|/xhttp|pl-1.avroraservice.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"e0b9fb0f-1bbd-478b-9580-c2294778338b|us1.avroraservice.online|443|grpc|tls|us1.avroraservice.online|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"0dca2cfe-98eb-4f9d-9a47-cf87510c558b|de-1.avroraservice.online|443|xhttp|tls|de-1.avroraservice.online|/xhttp|de-1.avroraservice.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"ff0b6ba8-bed0-4c4d-bbc9-23af47582615|200.165.231.209|443|ws|tls|200.165.231.209|/api/connect|wstg.datasynctrue.online": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"4643976f-85fa-40cf-9e58-ea28b50f253b|188.225.25.22|443|tcp|reality|188.225.25.22|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f9a2e475-0c03-4eb4-8680-0c69f90af8ae|by-msq-2.blook.network|443|xhttp|tls|by-msq-2.blook.network|/VLSpdG9k|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.175|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f5840d5d-442c-0013-a838-059942f0e06f|138.124.69.14|443|tcp|reality|cdn-hip-ru-siberia.meshka.tech|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f5840d5d-442c-0013-a838-059942f0e06f|cdn-hip-ru-siberia.meshka.tech|443|tcp|reality|cdn-hip-ru-siberia.meshka.tech|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|91.215.43.80|443|ws|tls|my.sand.api.downloader-pet.xyz|/gateway/v1/ws/74c4d5e82a8e50ccf09fc628c17dc9be|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.234|443|raw|reality|yandex.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.175|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.234|443|raw|reality|api.ok.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.175|443|raw|reality|max.ru|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"83604f62-65e0-459d-bba3-4821c19debb4|185.229.9.234|443|raw|reality|www.vk.com|/|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"f80b4d32-81b4-42a7-9b89-bb219682375c|217.16.18.121|443|raw|reality|eh.vk.com|/|": {
+"streak": 1,
+"last_ok": true,
+"last_latency": 0.698
+},
+"65b9f3f7-ce88-4f3c-852d-3d82f54c924e|94.139.255.239|443|ws|tls|krepmet.site|/catalog/feed/WuS2vn_EyDEQ|": {
+"streak": 0,
+"last_ok": false,
+"last_latency": null
+},
+"5d16ac22-6eea-426f-b778-6f4c2961faef|45.132.177.96|9889|grpc|reality|dl.google.com|/|": {
 "streak": 0,
 "last_ok": false,
 "last_latency": null
